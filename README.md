@@ -1,0 +1,2 @@
+# DevopsProjectICICI
+Devops Training
